@@ -58,36 +58,8 @@ namespace BibliotecaAnimanga
             else
                 MenuVertical.Width = 211;
         }
-        #region Iconos
-        private void iconcerrar_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
-
-        private void iconmaximizar_Click(object sender, EventArgs e)
-        {
-            this.WindowState = FormWindowState.Maximized;
-            iconrestaurar.Visible = true;
-            iconmaximizar.Visible = false;
-        }
-
-        private void iconrestaurar_Click(object sender, EventArgs e)
-        {
-            this.WindowState = FormWindowState.Normal;
-            iconrestaurar.Visible = false;
-            iconmaximizar.Visible = true;
-        }
-
-        private void iconminimizar_Click(object sender, EventArgs e)
-        {
-            this.WindowState = FormWindowState.Minimized;
-        }
-        #endregion
-        private void BarraTitulo_MouseDown(object sender, MouseEventArgs e)
-        {
-            ReleaseCapture();
-            SendMessage(this.Handle, 0x112, 0xf012, 0);
-        }
+       
+      
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -153,13 +125,17 @@ namespace BibliotecaAnimanga
         #region RegistrarGeneroAnime
         private void btnRegistrarGeneroA_Click(object sender, EventArgs e)
         {
+
+
+
+            openChildFormInPanel(new frmGeneroAnime());
             hideSubMenu();
         }
         #endregion
         #region RegistrarEstudio
         private void btnRegistrarEstudio_Click(object sender, EventArgs e)
         {
-
+            openChildFormInPanel(new frmEstudioAnime());
             hideSubMenu();
         }
         #endregion
@@ -211,6 +187,66 @@ namespace BibliotecaAnimanga
         private void btnBuscarUsuarios_Click(object sender, EventArgs e)
         {
             hideSubMenu();
+        }
+
+        private void panelChildForm_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private Form activeForm = null;
+        private void openChildFormInPanel(Form childForm)
+        {
+            if (activeForm != null)
+                activeForm.Close();
+            activeForm = childForm;
+            childForm.TopLevel = false;
+            childForm.FormBorderStyle = FormBorderStyle.None;
+            childForm.Dock = DockStyle.Fill;
+            panelChildForm.Controls.Add(childForm);
+            panelChildForm.Tag = childForm;
+            childForm.BringToFront();
+            childForm.Show();
+        }
+
+        private void iconrestaurar_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Normal;
+            iconrestaurar.Visible = false;
+            iconmaximizar.Visible = true;
+        }
+
+        private void iconmaximizar_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Maximized;
+            iconmaximizar.Visible = false;
+            iconrestaurar.Visible = true;
+        }
+
+        private void iconcerrar_Click(object sender, EventArgs e)
+        {
+            if(MessageBox.Show("¿Estas seguro de salir de la aplicación?", "Advertencia",
+                MessageBoxButtons.YesNo, MessageBoxIcon.Warning)==DialogResult.Yes)
+                Application.Exit();
+        }
+
+        private void iconminimizar_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
+        }
+
+        private void BarraTitulo_MouseDown(object sender, MouseEventArgs e)
+        {
+            ReleaseCapture();
+            SendMessage(this.Handle, 0x112, 0xf012, 0);
+
+        }
+
+        private void btnCerrarSesion_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("¿Estas seguro de cerrar sesion?", "Advertencia",
+                MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
+                this.Close();
         }
     }
 }

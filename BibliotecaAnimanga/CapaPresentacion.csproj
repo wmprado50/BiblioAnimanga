@@ -52,6 +52,18 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmEstudioAnime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEstudioAnime.Designer.cs">
+      <DependentUpon>frmEstudioAnime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGeneroAnime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGeneroAnime.Designer.cs">
+      <DependentUpon>frmGeneroAnime.cs</DependentUpon>
+    </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -72,6 +84,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmEstudioAnime.resx">
+      <DependentUpon>frmEstudioAnime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGeneroAnime.resx">
+      <DependentUpon>frmGeneroAnime.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>

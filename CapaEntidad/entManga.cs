@@ -10,9 +10,12 @@ namespace CapaEntidad
     {
         public int idManga { get; set; }
         public string nombreMan { get; set; }
-        public string generoMan { get; set; }
-        public string autorMan { get; set; }
-        public string ilustMan { get; set; }
+        public int id_genMan { get; set; }
+        public string nombre_genMan { get; set; }
+        public int id_autorMan { get; set; }
+        public string nombre_autMan { get; set; }
+        public int id_iluMan { get; set; }
+        public string nombre_ilustMan { get; set; }
         public string demografiaMan { get; set; }
 
     }

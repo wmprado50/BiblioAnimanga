@@ -42,6 +42,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="entAnime.cs" />
+    <Compile Include="entAutorManga.cs" />
+    <Compile Include="entEstudioAnime.cs" />
+    <Compile Include="entGeneroAnime.cs" />
+    <Compile Include="entGeneroManga.cs" />
+    <Compile Include="entIlustradorManga.cs" />
     <Compile Include="entManga.cs" />
     <Compile Include="entUsuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

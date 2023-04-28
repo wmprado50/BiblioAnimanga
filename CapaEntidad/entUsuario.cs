@@ -15,7 +15,8 @@ namespace CapaEntidad
         public string apellidoUs { get; set; }
         public string correoUs { get; set; }
         public int telefonoUs { get; set; }
-        
-        
+        public Boolean estadoUs { get; set; }
+
+
     }
 }

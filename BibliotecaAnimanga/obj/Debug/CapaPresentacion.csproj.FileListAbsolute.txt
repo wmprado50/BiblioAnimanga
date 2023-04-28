@@ -16,3 +16,7 @@ C:\Users\HOME\Documents\VisualStudio Projects\BibliotecaAnimanga\bin\Debug\CapaL
 C:\Users\HOME\Documents\VisualStudio Projects\BibliotecaAnimanga\bin\Debug\CapaEntidad.pdb
 C:\Users\HOME\Documents\VisualStudio Projects\BibliotecaAnimanga\bin\Debug\CapaLogica.pdb
 C:\Users\HOME\Documents\VisualStudio Projects\BibliotecaAnimanga\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\HOME\Documents\VisualStudio Projects\BibliotecaAnimanga\bin\Debug\CapaDatos.dll
+C:\Users\HOME\Documents\VisualStudio Projects\BibliotecaAnimanga\bin\Debug\CapaDatos.pdb
+C:\Users\HOME\Documents\VisualStudio Projects\BibliotecaAnimanga\obj\Debug\BibliotecaAnimanga.frmGeneroAnime.resources
+C:\Users\HOME\Documents\VisualStudio Projects\BibliotecaAnimanga\obj\Debug\BibliotecaAnimanga.frmEstudioAnime.resources
