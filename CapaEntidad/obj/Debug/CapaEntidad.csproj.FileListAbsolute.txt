@@ -4,3 +4,9 @@ C:\Users\HOME\Documents\VisualStudio Projects\CapaEntidad\obj\Debug\CapaEntidad.
 C:\Users\HOME\Documents\VisualStudio Projects\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
 C:\Users\HOME\Documents\VisualStudio Projects\CapaEntidad\obj\Debug\CapaEntidad.dll
 C:\Users\HOME\Documents\VisualStudio Projects\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaEntidad\obj\Debug\CapaEntidad.pdb

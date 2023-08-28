@@ -20,3 +20,27 @@ C:\Users\HOME\Documents\VisualStudio Projects\BibliotecaAnimanga\bin\Debug\CapaD
 C:\Users\HOME\Documents\VisualStudio Projects\BibliotecaAnimanga\bin\Debug\CapaDatos.pdb
 C:\Users\HOME\Documents\VisualStudio Projects\BibliotecaAnimanga\obj\Debug\BibliotecaAnimanga.frmGeneroAnime.resources
 C:\Users\HOME\Documents\VisualStudio Projects\BibliotecaAnimanga\obj\Debug\BibliotecaAnimanga.frmEstudioAnime.resources
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\bin\Debug\BibliotecaAnimanga.exe.config
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\bin\Debug\BibliotecaAnimanga.exe
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\bin\Debug\BibliotecaAnimanga.pdb
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\bin\Debug\CapaEntidad.dll
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\bin\Debug\CapaLogica.dll
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\bin\Debug\CapaDatos.dll
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\bin\Debug\CapaEntidad.pdb
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\bin\Debug\CapaLogica.pdb
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\bin\Debug\CapaDatos.pdb
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\obj\Debug\BibliotecaAnimanga.frmEstudioAnime.resources
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\obj\Debug\BibliotecaAnimanga.frmGeneroAnime.resources
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\obj\Debug\BibliotecaAnimanga.GeneroAni.resources
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\obj\Debug\BibliotecaAnimanga.Login.resources
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\obj\Debug\BibliotecaAnimanga.PantallaCarga.resources
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\obj\Debug\BibliotecaAnimanga.Principal.resources
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\obj\Debug\BibliotecaAnimanga.Properties.Resources.resources
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\obj\Debug\BibliotecaAnimanga.exe
+C:\Users\HOME\Source\Repos\BiblioAnimanga\BibliotecaAnimanga\obj\Debug\BibliotecaAnimanga.pdb
+C:\Users\HOME\source\repos\BiblioAnimanga\BibliotecaAnimanga\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache

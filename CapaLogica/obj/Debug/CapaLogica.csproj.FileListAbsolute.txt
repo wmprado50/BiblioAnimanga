@@ -9,3 +9,14 @@ C:\Users\HOME\Documents\VisualStudio Projects\CapaLogica\obj\Debug\CapaLogica.cs
 C:\Users\HOME\Documents\VisualStudio Projects\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
 C:\Users\HOME\Documents\VisualStudio Projects\CapaLogica\obj\Debug\CapaLogica.dll
 C:\Users\HOME\Documents\VisualStudio Projects\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaLogica\obj\Debug\CapaLogica.pdb

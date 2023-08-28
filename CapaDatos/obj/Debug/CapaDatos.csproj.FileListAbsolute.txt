@@ -7,3 +7,12 @@ C:\Users\HOME\Documents\VisualStudio Projects\CapaDatos\obj\Debug\CapaDatos.cspr
 C:\Users\HOME\Documents\VisualStudio Projects\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
 C:\Users\HOME\Documents\VisualStudio Projects\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\HOME\Documents\VisualStudio Projects\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\HOME\Source\Repos\BiblioAnimanga\CapaDatos\obj\Debug\CapaDatos.pdb
